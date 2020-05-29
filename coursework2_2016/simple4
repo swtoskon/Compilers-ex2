@@ -1,0 +1,6 @@
+program simple4
+(print (3.3 4.2 +))
+(print (3.0 4.0 + 7.0 *))
+(x (22.0 8.0 + 2.0 *) )
+(print x)
+end_program

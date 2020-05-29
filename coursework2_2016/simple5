@@ -1,0 +1,10 @@
+program simple5
+(yr (3.3 4.2 +))
+(xr (3.0 4.0 + 7.0 *))
+(zr yr xr +)
+(print zr)
+(x 1)
+(y 5 4 + )
+(x (x y +))
+(print x)
+end_program

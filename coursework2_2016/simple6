@@ -1,0 +1,8 @@
+program simple6
+(y 0)
+(print y++)
+(print y)
+(x 0)
+(print ++x)
+(print x)
+end_program
